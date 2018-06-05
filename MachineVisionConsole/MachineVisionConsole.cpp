@@ -94,7 +94,7 @@ int main()
 
 		imshow("°æ¥¶¿Ì∫Û°ø", dstImage);
 
-		key = waitKey(2000);
+		key = waitKey(5000);
 		if (key == 27)
 			break;
 	}
