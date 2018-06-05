@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:s="clr-namespace:System;assembly=mscorlib">
+    <s:String x:Key="MainWindowTitle">MVVM實例</s:String>
+    <s:String x:Key="Language">繁體中文</s:String>
+    <s:String x:Key="LanguageText">語言</s:String>
+    <s:String x:Key="Home">歡迎</s:String>
+    <s:String x:Key="Palette">主題</s:String>
+    <s:String x:Key="ConvertFile">解密</s:String>
+    <s:String x:Key="Vision">視覺</s:String>
+
+    <s:String x:Key="Light">淺色</s:String>
+    <s:String x:Key="Dark">深色</s:String>
+</ResourceDictionary>
